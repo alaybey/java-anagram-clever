@@ -8,8 +8,7 @@ Example;
 ```
  "Balikci" and "Bicakla" are not 
  anagram.
- Because they should be equal to each reverse value. 
- Reverse value of "Balikci" is "ickilaB"
+ Because they should be equal to each chars of words and with lengths
 ```
 
 You can anagram check between two words with `Anagram.class` default constructor.
