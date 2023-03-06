@@ -1,8 +1,21 @@
 # Getting Started
 
 ## Information
+
+#### Anagram
+
+Example;
+```
+ "Balikci" and "Bicakla" are not 
+ anagram.
+ Because they should be equal to each reverse value. 
+ Reverse value of "Balikci" is "ickilaB"
+```
+
 You can anagram check between two words with `Anagram.class` default constructor.
 
+
+#### Clever
 You can clever algorithm check with `Clever.class` default construstor. 
 
 
