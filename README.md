@@ -1,5 +1,7 @@
 # Getting Started
 
+Requirement java8+ and maven
+
 ## Information
 
 #### Anagram
