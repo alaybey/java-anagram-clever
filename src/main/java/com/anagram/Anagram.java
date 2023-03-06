@@ -22,9 +22,10 @@ public class Anagram {
         Arrays.sort(a1);
         Arrays.sort(a2);
 
-        if(Arrays.equals(a1, a2)){
-            System.out.println("These word are anagram");
+        if(!Arrays.equals(a1, a2)){
+            System.out.println("Error: These words are not anagram");
         }
-        System.out.println("Error: These words are not anagram");
+        System.out.println("These word are anagram");
+
     }
 }
